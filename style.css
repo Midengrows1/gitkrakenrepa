@@ -7,3 +7,9 @@ p{
 div{
     border: 1px solid;
 }
+strong{
+    border:1px solid;
+}
+header{
+    background-color: blueviolet;
+}
