@@ -1,6 +1,0 @@
-### Associated tickets
-[NR-123](https://...): Name of the Ticket
-### What was done in this PR
-1. Feature that was added...
-### How to check
-1. Steps to check it...
